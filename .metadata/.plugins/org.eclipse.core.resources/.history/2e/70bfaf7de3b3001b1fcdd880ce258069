@@ -1,0 +1,6 @@
+package com.learning.springbootschedular.tasks;
+
+
+public class FileSchedTask {
+
+}

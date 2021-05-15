@@ -1,0 +1,5 @@
+package com.learning.springbootschedular.config;
+
+public class ScheduledTasks {
+
+}

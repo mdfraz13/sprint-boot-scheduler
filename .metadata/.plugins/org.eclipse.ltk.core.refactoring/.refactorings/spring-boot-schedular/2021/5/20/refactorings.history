@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-boot-schedular/src/main/java/com/learning/springbootschedular/config/ScheduledTasks.java&apos; to &apos;ScheduledConfig.java&apos;" description="Rename resource &apos;ScheduledTasks.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/learning/springbootschedular/config/ScheduledTasks.java" name="ScheduledConfig.java" stamp="1620906703249" updateReferences="true"/>
+</session>
